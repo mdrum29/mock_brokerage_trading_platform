@@ -1,14 +1,14 @@
 # mock_brokerage_trading_platform
 This code replicates a basic brokerage trading platform.
-The user can BUY and SELL any exchange listed stock. The app keeps track of and graphs portfolio balances over time, displays recent transactions updated in realtime and probides realtime quotes to user.
-The platform connects to Alpaca.Markets Paper-Trading API. Therefore, all of these trades are not real but the data is accurate and in realtime. In addition, a user could create a real account on Alpaca and plug this into the live trading API.
+The user can BUY and SELL any exchange listed stock. The app keeps track of and graphs portfolio balances over time, displays recent transactions updated in real-time and provides real-time quotes to user.
+The platform connects to Alpaca.Markets Paper-Trading API. Therefore, all of these trades are not real but the data is accurate and in real-time. In addition, a user could create a real account on Alpaca and plug this into the live trading API.
 
 
 Part 1:
 This screenshot is what you will see when you load up the server.
-1. The real time cash available to trade is display towards the right in the order section.
+1. The real-time cash available to trade is display towards the right in the order section.
 2. The historical weekly balance is displayed in the middle with a real time portfolio balances that refreshes every 5 seconds while the market is open.
-3. In the bottom right, there is a realtime pie chart showing the users current asset allocation.
+3. In the bottom right, there is a real-time pie chart showing the users current asset allocation.
 
    
 ![image](https://github.com/mdrum29/mock_brokerage_trading_platform/assets/96875916/0e25d2d4-ed22-438b-93d6-89918440c860)
